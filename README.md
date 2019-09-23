@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # squeezencnn
 squeezenet ncnn example for android
 
@@ -15,3 +16,7 @@ https://github.com/tencent/ncnn
 ### License
 BSD 3 Clause
 
+=======
+# NCNN
+NcnnMangager
+>>>>>>> 15834e59718071f14baaef510705e4daccaded52
