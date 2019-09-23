@@ -1,0 +1,5 @@
+/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/src/main/jni/squeezencnn_jni.cpp:112:11: error: no type named 'set_default_option' in namespace 'ncnn'
+    ncnn::set_default_option(opt);
+    ~~~~~~^
+1 error generated.
+make: *** [/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/squeezencnn/squeezencnn_jni.o] Error 1

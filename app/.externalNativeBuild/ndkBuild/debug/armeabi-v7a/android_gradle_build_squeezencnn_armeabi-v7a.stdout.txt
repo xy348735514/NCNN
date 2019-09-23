@@ -1,0 +1,1 @@
+[armeabi-v7a] Compile++ thumb: squeezencnn <= squeezencnn_jni.cpp

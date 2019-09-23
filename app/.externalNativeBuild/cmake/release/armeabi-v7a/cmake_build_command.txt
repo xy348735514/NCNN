@@ -1,0 +1,15 @@
+Executable : /Users/user/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/src/main/jni
+-B/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/.externalNativeBuild/cmake/release/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-22
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/user/Library/Android/sdk/android-ndk-r20
+-DCMAKE_CXX_FLAGS=-std=c++11 -fopenmp
+-DCMAKE_TOOLCHAIN_FILE=/Users/user/Library/Android/sdk/android-ndk-r20/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/user/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

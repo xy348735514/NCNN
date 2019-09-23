@@ -1,0 +1,8 @@
+Executable : /Users/user/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a
+--target
+squeezencnn
+jvmArgs : 
+

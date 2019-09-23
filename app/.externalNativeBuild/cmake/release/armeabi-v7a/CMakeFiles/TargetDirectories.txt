@@ -1,0 +1,3 @@
+/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/user/Documents/demo201908-ndk/squeezencnn-master/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/squeezencnn.dir
