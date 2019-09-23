@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+NCNN 图片识别项目demo
 # squeezencnn
 squeezenet ncnn example for android
 
